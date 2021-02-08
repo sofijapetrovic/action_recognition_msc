@@ -1,0 +1,8 @@
+{
+  "app_checkpoint_path": "",
+  "pose_checkpoint_path": "",
+  "epochs": 100,
+  "batch_size" : 150,
+  "log_every_iter": 100,
+  "save_every_epoch": 3
+}
